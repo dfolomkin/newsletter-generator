@@ -1,0 +1,28 @@
+{
+  "name": "newsletter-generator",
+  "version": "1.0.0",
+  "description": "generator for simply creating standart newsletter layout",
+  "main": "generator.js",
+  "scripts": {
+    "generate": "node generator"
+  },
+  "author": "Dmitry Folomkin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfolomkin/newsletter-generator.git"
+  },
+  "keywords": [
+    "newsletter",
+    "layout",
+    "email",
+    "html",
+    "generator",
+    "xml-parser"
+  ]
+}

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <meta>
+    <filename>example</filename>
+    <date>2018-08-21</date>
+    <annotation>
+      Привет! Каким будет SEC, в какой войне WAR Stories хороши и 
+      как стать хорошим BA. Все это и многое другое читай в новом выпуске 
+      белорусского ньюслеттера. И, конечно, не пропусти горячие ивенты 
+      из раздела «Афиша». Поехали!
+    </annotation>
+  </meta>
+  <sections>
+    <section>
+      <title>Новости</title>
+    </section>
+    <section>
+      <type>wide</type>
+      <image>
+        <link>http://static.cdn.epam.com/uploads/486170a289c40c784b959111bed0e3be/Newsletter/2_august/SEC18-600-300-v3.6.jpg</link>
+        <alt>SEC is coming</alt>
+        <width>600</width>
+        <height>260</height>
+      </image>
+      <title>SEC is coming</title>
+      <text>
+        Первая конференция EPAM SEC 2018, открытая для всех! Решать: идти или нет – тебе. 
+        Билеты для сотрудников доступны с 75% скидкой. Если хочешь взять с собой друга 
+        (и он все еще не с нами:) ), поделись с ним промокодом EPAM25, он дает право купить 
+        билет со скидкой 20% (но только первые 50 билетов). Подробности 
+        <a href="https://epa.ms/nwsltr-2-sec-article" style="color: #75cdd8; text-decoration: none">в этой статье</a>. 
+        Make it real!
+      </text>
+      <button>
+        <caption>Познакомиться с коллегами поближе</caption>
+        <link>https://epa.ms/Directors-interview</link>
+      </button>
+    </section>
+    <section>
+      <type>half</type>
+      <imagePosition>left</imagePosition>
+      <image>
+        <link>http://static.cdn.epam.com/uploads/e87946a1a980fa0c84ff231a086e385a/newsletter/photo-02.png</link>
+        <alt>EPAM Contribute</alt>
+        <width>300</width>
+        <height>340</height>
+      </image>
+      <title>EPAM Contribute: все получается, когда мы работаем вместе</title>
+      <text>
+        Найти новые перспективы для развития или взглянуть на свою карьеру под другим углом стало проще. 
+        Специально для того, кого волнует будущее и кто неравнодушен к себе в настоящем – в EPAM появилась единая точка входа, 
+        которая поможет в поисках: внутренняя платформа Contribute.
+        <a href="https://epa.ms/contribute-nwsltr" style="color: #75cdd8; text-decoration: none">Читай этот материал</a>, 
+        чтобы понять, как это поможет изменить жизнь.
+      </text>
+    </section>
+    <section>
+      <type>half</type>
+      <imagePosition>right</imagePosition>
+      <image>
+        <link>http://static.cdn.epam.com/uploads/e87946a1a980fa0c84ff231a086e385a/newsletter/photo-02.png</link>
+        <alt>EPAM Contribute</alt>
+        <width>300</width>
+        <height>340</height>
+      </image>
+      <title>EPAM Contribute: все получается, когда мы работаем вместе</title>
+      <text>
+        Найти новые перспективы для развития или взглянуть на свою карьеру под другим углом стало проще. 
+        Специально для того, кого волнует будущее и кто неравнодушен к себе в настоящем – в EPAM появилась единая точка входа, 
+        которая поможет в поисках: внутренняя платформа Contribute.
+        <a href="https://epa.ms/contribute-nwsltr" style="color: #75cdd8; text-decoration: none">Читай этот материал</a>, 
+        чтобы понять, как это поможет изменить жизнь.
+      </text>
+    </section>
+    <section>
+      <type>yammer</type>
+      <image>
+        <link>http://static.cdn.epam.com/uploads/486170a289c40c784b959111bed0e3be/Newsletter/2_august/Yammer.png</link>
+        <alt>Yammer</alt>
+        <width>600</width>
+        <height>340</height>
+      </image>
+      <text>
+        Hello против Hi, лучшие приложения для изучения языка, трудности перевода при общении с кастомером 
+        – в <a href="https://epa.ms/nwsltr-2-yammer" style="color: #0089ce; text-decoration: none">этой группе</a> 
+        найдется все. Присоединяйся!
+      </text>
+    </section>
+    <section>
+      <title>Афиша</title>
+    </section>
+    <section>
+      <type>event</type>
+      <date>2018-08-21</date>
+      <title>Open Pro.Net Community Meetup (Minsk)</title>
+      <text>
+        Как получить максимум от работы с Open Source Software – узнаешь на первом из новой серии .Net митапов.
+      </text>
+      <button>
+        <caption>Зарегистрироваться</caption>
+        <link>https://epa.ms/nwsltr-2-events-dotnet</link>
+      </button>
+    </section>
+    <section>
+      <type>event</type>
+      <date>2018-08-21</date>
+      <title>Open Pro.Net Community Meetup (Minsk)</title>
+      <text>
+        Как получить максимум от работы с Open Source Software – узнаешь на первом из новой серии .Net митапов.
+      </text>
+      <button>
+        <caption>Зарегистрироваться</caption>
+        <link>https://epa.ms/nwsltr-2-events-dotnet</link>
+      </button>
+    </section>
+    <section>
+      <type>wide</type>
+      <image>
+        <link>http://static.cdn.epam.com/uploads/486170a289c40c784b959111bed0e3be/Newsletter/2_august/SEC18-600-300-v3.6.jpg</link>
+        <alt>SEC is coming</alt>
+        <width>600</width>
+        <height>260</height>
+      </image>
+      <title>SEC is coming</title>
+      <text>
+        Первая конференция EPAM SEC 2018, открытая для всех! Решать: идти или нет – тебе. 
+        Билеты для сотрудников доступны с 75% скидкой. Если хочешь взять с собой друга 
+        (и он все еще не с нами:) ), поделись с ним промокодом EPAM25, он дает право купить 
+        билет со скидкой 20% (но только первые 50 билетов). Подробности 
+        <a href="https://epa.ms/nwsltr-2-sec-article" style="color: #75cdd8; text-decoration: none">в этой статье</a>. 
+        Make it real!
+      </text>
+      <textAlign>left</textAlign>
+    </section>
+    <section>
+      <title>Цитата</title>
+    </section>
+    <section>
+      <type>quote</type>
+      <image>
+        <link>http://static.cdn.epam.com/uploads/486170a289c40c784b959111bed0e3be/Newsletter/2_august/P_Liber1.jpg</link>
+        <alt>SEC is coming</alt>
+        <width>600</width>
+        <height>300</height>
+      </image>
+      <text>
+        Сегодня клиенты все чаще воспринимают EPAM как компанию, которая может сделать все. Может отработать как digital агентство, 
+        передать проект в разработку, поддерживать потом. И клиенту не нужно заботиться о том, чтобы построить мостики между 
+        всеми этими частями, потому что, фактически, для них есть одна компания, которая предоставляет все это как сервис
+      </text>
+      <author>
+        <name>Павел Либер</name>
+        <post>Senior Director, Software Engineering</post>
+      </author>
+      <button>
+        <caption>Смотреть полную версию EPAM DEP Townhall</caption>
+        <link>https://epa.ms/nwsltr-2-events-dotnet</link>
+      </button>
+    </section>
+  </sections>
+</root>
+
